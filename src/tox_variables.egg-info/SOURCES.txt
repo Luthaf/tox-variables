@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+src/tox_variables/__init__.py
+src/tox_variables.egg-info/PKG-INFO
+src/tox_variables.egg-info/SOURCES.txt
+src/tox_variables.egg-info/dependency_links.txt
+src/tox_variables.egg-info/top_level.txt
